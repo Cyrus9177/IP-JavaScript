@@ -1,3 +1,4 @@
+# EDITED VERSION OF JS
 const quizData = [
     {
         question: "Which language runs in a web browser?",
